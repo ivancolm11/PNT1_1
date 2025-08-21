@@ -1,0 +1,1 @@
+This is a repository with a brief introduction to the fundamentals of HTML, CSS, and JS.
